@@ -1,4 +1,5 @@
 {
+	"name":"cfullelove/PhpCoap",
     "require": {
         "react/react": "0.4.*"
     },
